@@ -48,11 +48,13 @@ The app follows the MVVM (Model-View-ViewModel) architecture.
 
 This structure is designed to separate the concerns of the project, making it easier to manage and test.
 
-##CHALLENGE 2: USING SWIFT PLAYGROUND 
+## CHALLENGE 2: USING SWIFT PLAYGROUND 
 
-###Challenge 2.1 Product Inventory Management - DONE
+### Challenge 2.1 Product Inventory Management - DONE
 
-###Challenge 2.2 Array Manipulation and Missing Number Problem - DONE
+### Challenge 2.2 Array Manipulation and Missing Number Problem - DONE
 
 
 ## Steps to run: git clone and run of each folder Challenge 1 and Challenge 2
+
+## Link DEMO: https://youtu.be/ucKGuGeEPGg?si=UrswFh3ZBoN1Wh8k
